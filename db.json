@@ -1,9 +1,24 @@
 {
-	"zShLogin": {
-		"error": "",
-		"token": "asdfghjkl"
+	"validate_user": {
+		"restaurantid": 1,
+		"restaurantname": "Belal Taha",
+		"restaurantemail": "BelalTaha@BadalBox.Com",
+		"restaurantpassword": "BTM",
+		"restaurantmob": "01002064371",
+		"restaurantimageurl": "http://192.168.1.2:8090/assets/Images/ZadImage.jpg",
+		"restaurantlogourl": "http://192.168.1.2:8090/assets/Images/ZadLogo.jpg",
+		"usertoken": "56jfy6ras856sdg67r8tre56s",
+		"rating": 3
 	},
-	"zShForgotPassword": {
+	"forgot_pwd": {
 		"error": ""
+	},
+	"sign_up_restaurant_profile": {
+		"restaurantid": 1,
+		"restaurantname": "Belal Taha",
+		"restaurantemail": "BelalTaha@BadalBox.Com",
+		"restaurantpassword": "BTM",
+		"restaurantmob": "01002064371",
+		"usertoken": "56jfy6ras856sdg67r8tre56s"
 	}
 }
