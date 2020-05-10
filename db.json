@@ -20,5 +20,20 @@
 		"restaurantpassword": "BTM",
 		"restaurantmob": "01002064371",
 		"usertoken": "56jfy6ras856sdg67r8tre56s"
-	}
+	},
+	"update_restaurant_address": {
+		"error": ""
+	},
+	"update_restaurant_servicetype": {
+		"error": ""
+	},
+	"get_all_cities": [{
+			"cityid": 1,
+			"cityname": "Dubai"
+		},
+		{
+			"cityid": 2,
+			"cityname": "El-Sharqa"
+		}
+	]
 }
