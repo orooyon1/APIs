@@ -27,13 +27,15 @@
 	"update_restaurant_servicetype": {
 		"error": ""
 	},
-	"get_all_cities": [{
-			"cityid": 1,
-			"cityname": "Dubai"
-		},
-		{
-			"cityid": 2,
-			"cityname": "El-Sharqa"
-		}
-	]
+	"get_all_cities": {
+		"cities": [{
+				"cityid": 1,
+				"cityname": "Dubai"
+			},
+			{
+				"cityid": 2,
+				"cityname": "El-Sharqa"
+			}
+		]
+	}
 }
